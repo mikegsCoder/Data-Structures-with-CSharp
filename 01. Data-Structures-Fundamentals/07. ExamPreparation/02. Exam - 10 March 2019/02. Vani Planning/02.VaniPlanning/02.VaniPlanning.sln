@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.VaniPlanning", "02.VaniPlanning.csproj", "{0C32E751-8436-431C-AEC4-917B7BE52D10}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.VaniPlanning.Tests", "..\02.VaniPlanning.Tests\02.VaniPlanning.Tests.csproj", "{21B4B6E6-F4E6-406A-BBF1-A61240715DC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C32E751-8436-431C-AEC4-917B7BE52D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C32E751-8436-431C-AEC4-917B7BE52D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C32E751-8436-431C-AEC4-917B7BE52D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C32E751-8436-431C-AEC4-917B7BE52D10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21B4B6E6-F4E6-406A-BBF1-A61240715DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B4B6E6-F4E6-406A-BBF1-A61240715DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B4B6E6-F4E6-406A-BBF1-A61240715DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B4B6E6-F4E6-406A-BBF1-A61240715DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C7C1BFA-DA6B-4A44-8A80-9A8545F4BF63}
+	EndGlobalSection
+EndGlobal
