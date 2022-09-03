@@ -1,6 +1,3 @@
-# Data-Structures-with-CSharp
-## SoftUni Data Structures Courses with C#
-
 ### Data Structures Fundamentals course cirriculum :
 
 - Data Structures and Complexity
